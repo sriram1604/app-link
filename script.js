@@ -171,36 +171,36 @@ document.addEventListener('DOMContentLoaded', () => {
     // 10. Multilingual Chatbot Data & Logic
     let chatbotData = {
         "en": {
-            "welcome": "Hello! I am your PKS Assistant. Ask your doubts about PKS Enterprises.",
+            "welcome": "Hello! I am your PAK Assistant. Ask your doubts about PAK Enterprises.",
             "not_found": "I'm not sure about that. But for the best workforce management, you should install our official app!",
-            "install_advice": "Would you like to download the PKS Enterprises app now for attendance and shift tracking?",
+            "install_advice": "Would you like to download the PAK Enterprises app now for attendance and shift tracking?",
             "questions": [
-                { "pattern": "who|what|about|company|pks|explain|precision|allied|krafts", "response": "PKS Enterprises (Precision Allied Krafts) provides contract-based skilled and unskilled manpower for cardboard manufacturing, packaging units, and industrial operations." },
+                { "pattern": "who|what|about|company|pak|explain|precision|allied|krafts", "response": "PAK Enterprises (Precision Allied Krafts) provides contract-based skilled and unskilled manpower for cardboard manufacturing, packaging units, and industrial operations." },
                 { "pattern": "services|manpower|supply|staffing|workers|unskilled|skilled|labor", "response": "We offer unskilled workforce for material handling, skilled line support, and shift-aligned contract staffing tailored to your industrial KPIs." },
                 { "pattern": "attendance|system|tracking|mark|register|check in|check out", "response": "Our attendance system uses the official app for real-time tracking, biometric verification, and location-based geofencing to ensure discipline." },
-                { "pattern": "language|regional|tamil|hindi|english|speak", "response": "PKS Assistant and our official app support regional languages including English, Tamil, and Hindi for ease of use across your workforce." },
-                { "pattern": "app|do|features|benefit|why app|advantage", "response": "The PKS app manages shift-aligned staffing, real-time attendance discipline, structured deployment, and clear documentation between clients and manpower." },
+                { "pattern": "language|regional|tamil|hindi|english|speak", "response": "PAK Assistant and our official app support regional languages including English, Tamil, and Hindi for ease of use across your workforce." },
+                { "pattern": "app|do|features|benefit|why app|advantage", "response": "The PAK app manages shift-aligned staffing, real-time attendance discipline, structured deployment, and clear documentation between clients and manpower." },
                 { "pattern": "contact|phone|enquiry|call|email|address|location|reach|website|site|url", "response": "You can call us at +91 86670 29459, email support@pakenterprises.in, or visit our website at https://pakenterprises.in/. Our Head Office is in Poompozhil Nagar, Chennai-62." },
                 { "pattern": "geofence|gps|location|radius", "response": "Geo-fencing ensures workers only check in within your office or plant radius, preventing attendance fraud." },
-                { "pattern": "hi|hello|hey|greetings", "response": "Hello! Ask your doubts regarding PKS Enterprises manpower services and industrial solutions." }
+                { "pattern": "hi|hello|hey|greetings", "response": "Hello! Ask your doubts regarding PAK Enterprises manpower services and industrial solutions." }
             ]
         },
         "ta": {
-            "welcome": "வணக்கம்! நான் உங்கள் PKS உதவியாளர். PKS Enterprises பற்றிய உங்கள் சந்தேகங்களைக் கேளுங்கள்.",
+            "welcome": "வணக்கம்! நான் உங்கள் PAK உதவியாளர். PAK Enterprises பற்றிய உங்கள் சந்தேகங்களைக் கேளுங்கள்.",
             "not_found": "எனக்கு அது குறித்து தெரியவில்லை. ஆனால் சிறந்த பணி நிர்வாகத்திற்கு, எங்கள் செயலியை நிறுவவும்!",
-            "install_advice": "வருகை மற்றும் ஷிப்ட் கண்காணிப்புக்கு PKS Enterprises செயலியை இப்போது பதிவிறக்கம் செய்ய விரும்புகிறீர்களா?",
+            "install_advice": "வருகை மற்றும் ஷிப்ட் கண்காணிப்புக்கு PAK Enterprises செயலியை இப்போது பதிவிறக்கம் செய்ய விரும்புகிறீர்களா?",
             "questions": [
-                { "pattern": "யார்|தகவல்|பற்றி|pks|விளக்கம்|இணையதளம்", "response": "PKS Enterprises அட்டை பெட்டி தயாரிப்பு மற்றும் பேக்கேஜிங் தொழில்களுக்குத் தேவையான தொழிலாளர்களை ஒப்பந்த அடிப்படையில் (https://pakenterprises.in/) வழங்குகிறது." },
+                { "pattern": "யார்|தகவல்|பற்றி|pak|விளக்கம்|இணையதளம்", "response": "PAK Enterprises அட்டை பெட்டி தயாரிப்பு மற்றும் பேக்கேஜிங் தொழில்களுக்குத் தேவையான தொழிலாளர்களை ஒப்பந்த அடிப்படையில் (https://pakenterprises.in/) வழங்குகிறது." },
                 { "pattern": "வருகை|அட்டெண்டன்ஸ்|பதிவு", "response": "எங்களது வருகை பதிவு முறை (Attendance System) செயலியை பயன்படுத்தி மிகத்துல்லியமாக வேலை நேரத்தை கணக்கிடுகிறது." },
                 { "pattern": "மொழி|தமிழ்|இந்தி|ஆங்கிலம்", "response": "எங்களது செயலி தமிழ், இந்தி மற்றும் ஆங்கிலம் ஆகிய மொழிகளில் இயங்கக்கூடியது." }
             ]
         },
         "hi": {
-            "welcome": "नमस्ते! मैं आपका PKS सहायक हूँ। PKS Enterprises के बारे में अपनी शंकाएं पूछें।",
+            "welcome": "नमस्ते! मैं आपका PAK सहायक हूँ। PAK Enterprises के बारे में अपनी शंकाएं पूछें।",
             "not_found": "मुझे इसके बारे में यकीन नहीं है। अपनी शंकाओं के लिए हमारे ऐप का उपयोग करें।",
             "install_advice": "क्या आप हमारा ऐप डाउनलोड करना चाहेंगे?",
             "questions": [
-                { "pattern": "कौन|बारे में|कंपनी|pks|विवरण|वेबसाइट", "response": "PKS Enterprises औद्योगिक इकाइयों के लिए अनुबंध-आधारित जनशक्ति, उपस्थिति प्रणाली और डिजिटल समाधान (https://pakenterprises.in/) प्रदान करता है।" },
+                { "pattern": "कौन|बारे में|कंपनी|pak|विवरण|वेबसाइट", "response": "PAK Enterprises औद्योगिक इकाइयों के लिए अनुबंध-आधारित जनशक्ति, उपस्थिति प्रणाली और डिजिटल समाधान (https://pakenterprises.in/) प्रदान करता है।" },
                 { "pattern": "उपस्थिति|अटेंडेंस|सिस्टम", "response": "हमारा अटेंडेंस सिस्टम बायोमेट्रिक और जियोफेंसिंग के साथ रीयल-टाइम ट्रैकिंग सुनिश्चित करता है।" }
             ]
         }
