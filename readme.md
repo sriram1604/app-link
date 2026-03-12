@@ -1,6 +1,6 @@
 # PKS Enterprises Mobile App
 
-![PKS Logo](path/to/logo.png)
+![PKS Logo](logo/icon.png)
 
 PKS Enterprises provides reliable workforce solutions for packaging-driven industries with a focus on safety, consistency, and efficiency. Manage attendance, track workforce, and get real-time analytics—all from your mobile device.
 
