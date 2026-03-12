@@ -1,8 +1,8 @@
-# PKS Enterprises Mobile App
+# PAK Enterprises Mobile App
 
-![PKS Logo](logo/icon.png)
+![PAK Logo](logo/icon.png)
 
-PKS Enterprises provides reliable workforce solutions for packaging-driven industries with a focus on safety, consistency, and efficiency. Manage attendance, track workforce, and get real-time analytics—all from your mobile device.
+PAK Enterprises provides reliable workforce solutions for packaging-driven industries with a focus on safety, consistency, and efficiency. Manage attendance, track workforce, and get real-time analytics—all from your mobile device.
 
 ---
 
@@ -48,8 +48,8 @@ PKS Enterprises provides reliable workforce solutions for packaging-driven indus
 
 ## 🚀 Ready to Transform Your Workplace?
 
-Join thousands of companies using PKS Enterprises to manage their workforce more efficiently. Download the official APK now and streamline your operations.
+Join thousands of companies using PAK Enterprises to manage their workforce more efficiently. Download the official APK now and streamline your operations.
 
 ---
 
-*PKS Enterprises – Revolutionizing workforce management through innovation and 3D precision.*
+*PAK Enterprises – Revolutionizing workforce management through innovation and 3D precision.*
