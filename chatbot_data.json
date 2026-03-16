@@ -1,12 +1,12 @@
 {
   "en": {
-    "welcome": "Hello! I am your PAK Enterprises Assistant. Ask your doubts about PAK Enterprises.",
+    "welcome": "Hello! I am your PKS Assistant. Ask your doubts about PKS Enterprises.",
     "not_found": "I'm not sure about that. But for the best workforce management, you should install our official app!",
-    "install_advice": "Would you like to download the PAK Enterprises app now for attendance and shift tracking?",
+    "install_advice": "Would you like to download the PKS Enterprises app now for attendance and shift tracking?",
     "questions": [
       {
-        "pattern": "who|what|about|company|pak|explain",
-        "response": "PAK Enterprises (Precision Allied Krafts) provides contract-based skilled and unskilled manpower for cardboard manufacturing, packaging units, and industrial operations."
+        "pattern": "who|what|about|company|pks|pak|explain",
+        "response": "PKS Enterprises (Precision Allied Krafts) provides contract-based skilled and unskilled manpower for cardboard manufacturing, packaging units, and industrial operations."
       },
       {
         "pattern": "services|manpower|supply|staffing|workers",
@@ -38,18 +38,18 @@
       },
       {
         "pattern": "hi|hello|hey|greetings",
-        "response": "Hello! Ask your doubts regarding pak Enterprises manpower services and industrial solutions."
+        "response": "Hello! Ask your doubts regarding PKS Enterprises manpower services and industrial solutions."
       }
     ]
   },
   "ta": {
-    "welcome": "வணக்கம்! நான் உங்கள் pak உதவியாளர். pak Enterprises பற்றிய உங்கள் சந்தேகங்களைக் கேளுங்கள்.",
+    "welcome": "வணக்கம்! நான் உங்கள் PKS உதவியாளர். PKS Enterprises பற்றிய உங்கள் சந்தேகங்களைக் கேளுங்கள்.",
     "not_found": "எனக்கு அது குறித்து தெரியவில்லை. ஆனால் சிறந்த பணி நிர்வாகத்திற்கு, எங்கள் செயலியை நிறுவவும்!",
-    "install_advice": "வருகை மற்றும் ஷிப்ட் கண்காணிப்புக்கு pak Enterprises செயலியை இப்போது பதிவிறக்கம் செய்ய விரும்புகிறீர்களா?",
+    "install_advice": "வருகை மற்றும் ஷிப்ட் கண்காணிப்புக்கு PKS Enterprises செயலியை இப்போது பதிவிறக்கம் செய்ய விரும்புகிறீர்களா?",
     "questions": [
       {
-        "pattern": "யார்|தகவல்|பற்றி|pak|விளக்கம்",
-        "response": "pak Enterprises (Precision Allied Krafts) அட்டை பெட்டி தயாரிப்பு மற்றும் பேக்கேஜிங் தொழில்களுக்குத் தேவையான தொழிலாளர்களை ஒப்பந்த அடிப்படையில் வழங்குகிறது."
+        "pattern": "யார்|தகவல்|பற்றி|pks|pak|விளக்கம்",
+        "response": "PKS Enterprises (Precision Allied Krafts) அட்டை பெட்டி தயாரிப்பு மற்றும் பேக்கேஜிங் தொழில்களுக்குத் தேவையான தொழிலாளர்களை ஒப்பந்த அடிப்படையில் வழங்குகிறது."
       },
       {
         "pattern": "சேவைகள்|தொழிலாளர்கள்|ஆட்கள்|வேலை",
@@ -64,7 +64,7 @@
         "response": "எங்களை +91 86670 29459 என்ற எண்ணில் அழைக்கலாம், support@pakenterprises.in என்ற முகவரிக்கு மின்னஞ்சல் அனுப்பலாம் அல்லது எங்களது இணையதளத்தைப் (https://pakenterprises.in/) பார்வையிடலாம்."
       },
       {
-        "pattern": "பாதுகாப்பு|விதிமுறைகள்|pak",
+        "pattern": "பாதுகாப்பு|விதிமுறைகள்|pak|pks",
         "response": "எங்களது தொழிலாளர்கள் பாதுகாப்பு உபகரணங்கள் (PPE) மற்றும் தொழிற்சாலை விதிகளில் பயிற்சி பெற்றவர்கள்."
       },
       {
@@ -78,13 +78,13 @@
     ]
   },
   "hi": {
-    "welcome": "नमस्ते! मैं आपका pak सहायक हूँ। pak Enterprises के बारे में अपनी शंकाएं पूछें।",
+    "welcome": "नमस्ते! मैं आपका PKS सहायक हूँ। PKS Enterprises के बारे में अपनी शंकाएं पूछें।",
     "not_found": "मुझे इसके बारे में यकीन नहीं है। लेकिन बेहतर कार्यबल प्रबंधन के लिए, आपको हमारा आधिकारिक ऐप इंस्टॉल करना चाहिए!",
-    "install_advice": "क्या आप उपस्थिति और शिफ्ट ट्रैकिंग के लिए pak Enterprises ऐप अभी डाउनलोड करना चाहेंगे?",
+    "install_advice": "क्या आप उपस्थिति और शिफ्ट ट्रैकिंग के लिए PKS Enterprises ऐप अभी डाउनलोड करना चाहेंगे?",
     "questions": [
       {
-        "pattern": "कौन|बारे में|कंपनी|pak|विवरण",
-        "response": "pak Enterprises (Precision Allied Krafts) कार्डबोर्ड निर्माण और पैकेजिंग इकाइयों के लिए अनुबंध-आधारित कुशल और अकुशल जनशक्ति प्रदान करता है।"
+        "pattern": "कौन|बारे में|कंपनी|pks|pak|विवरण",
+        "response": "PKS Enterprises (Precision Allied Krafts) कार्डबोर्ड निर्माण और पैकेजिंग इकाइयों के लिए अनुबंध-आधारित कुशल और अकुशल जनशक्ति प्रदान करता है।"
       },
       {
         "pattern": "सेवाएं|जनशक्ति|स्टाफ|लेबर",
@@ -99,7 +99,7 @@
         "response": "आप हमें +91 86670 29459 पर कॉल कर सकते हैं, support@pakenterprises.in पर ईमेल कर सकते हैं या हमारी वेबसाइट https://pakenterprises.in/ पर जा सकते हैं।"
       },
       {
-        "pattern": "सुरक्षा|नियम|pak",
+        "pattern": "सुरक्षा|नियम|pks|pak",
         "response": "हमारे श्रमिकों को पीपीई उपयोग और संयंत्र सुरक्षा नियमों पर प्रशिक्षित किया जाता है।"
       },
       {
