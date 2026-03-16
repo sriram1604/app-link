@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "not_found": "I'm not sure about that. But for the best workforce management, you should install our official app!",
             "install_advice": "Would you like to download the PAK Enterprises app now for attendance and shift tracking?",
             "questions": [
-                { "pattern": "who|what|about|company|pak|explain|precision|allied|krafts", "response": "PAK Enterprises (Precision Allied Krafts) provides contract-based skilled and unskilled manpower for cardboard manufacturing, packaging units, and industrial operations." },
+                { "pattern": "who|what|about|company|pak|pak|explain|precision|allied|krafts", "response": "PKS Enterprises (Precision Allied Krafts) provides contract-based skilled and unskilled manpower for cardboard manufacturing, packaging units, and industrial operations." },
                 { "pattern": "services|manpower|supply|staffing|workers|unskilled|skilled|labor", "response": "We offer unskilled workforce for material handling, skilled line support, and shift-aligned contract staffing tailored to your industrial KPIs." },
                 { "pattern": "attendance|system|tracking|mark|register|check in|check out", "response": "Our attendance system uses the official app for real-time tracking, biometric verification, and location-based geofencing to ensure discipline." },
                 { "pattern": "language|regional|tamil|hindi|english|speak", "response": "PAK Assistant and our official app support regional languages including English, Tamil, and Hindi for ease of use across your workforce." },
@@ -190,7 +190,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "not_found": "எனக்கு அது குறித்து தெரியவில்லை. ஆனால் சிறந்த பணி நிர்வாகத்திற்கு, எங்கள் செயலியை நிறுவவும்!",
             "install_advice": "வருகை மற்றும் ஷிப்ட் கண்காணிப்புக்கு PAK Enterprises செயலியை இப்போது பதிவிறக்கம் செய்ய விரும்புகிறீர்களா?",
             "questions": [
-                { "pattern": "யார்|தகவல்|பற்றி|pak|விளக்கம்|இணையதளம்", "response": "PAK Enterprises அட்டை பெட்டி தயாரிப்பு மற்றும் பேக்கேஜிங் தொழில்களுக்குத் தேவையான தொழிலாளர்களை ஒப்பந்த அடிப்படையில் (https://pakenterprises.in/) வழங்குகிறது." },
+                { "pattern": "யார்|தகவல்|பற்றி|pak|pak|விளக்கம்|இணையதளம்", "response": "PAK Enterprises அட்டை பெட்டி தயாரிப்பு மற்றும் பேக்கேஜிங் தொழில்களுக்குத் தேவையான தொழிலாளர்களை ஒப்பந்த அடிப்படையில் (https://pakenterprises.in/) வழங்குகிறது." },
                 { "pattern": "வருகை|அட்டெண்டன்ஸ்|பதிவு", "response": "எங்களது வருகை பதிவு முறை (Attendance System) செயலியை பயன்படுத்தி மிகத்துல்லியமாக வேலை நேரத்தை கணக்கிடுகிறது." },
                 { "pattern": "மொழி|தமிழ்|இந்தி|ஆங்கிலம்", "response": "எங்களது செயலி தமிழ், இந்தி மற்றும் ஆங்கிலம் ஆகிய மொழிகளில் இயங்கக்கூடியது." }
             ]
@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "not_found": "मुझे इसके बारे में यकीन नहीं है। अपनी शंकाओं के लिए हमारे ऐप का उपयोग करें।",
             "install_advice": "क्या आप हमारा ऐप डाउनलोड करना चाहेंगे?",
             "questions": [
-                { "pattern": "कौन|बारे में|कंपनी|pak|विवरण|वेबसाइट", "response": "PAK Enterprises औद्योगिक इकाइयों के लिए अनुबंध-आधारित जनशक्ति, उपस्थिति प्रणाली और डिजिटल समाधान (https://pakenterprises.in/) प्रदान करता है।" },
+                { "pattern": "कौन|बारे में|कंपनी|pak|pak|विवरण|वेबसाइट", "response": "PKS Enterprises औद्योगिक इकाइयों के लिए अनुबंध-आधारित जनशक्ति, उपस्थिति प्रणाली और डिजिटल समाधान (https://pakenterprises.in/) प्रदान करता है।" },
                 { "pattern": "उपस्थिति|अटेंडेंस|सिस्टम", "response": "हमारा अटेंडेंस सिस्टम बायोमेट्रिक और जियोफेंसिंग के साथ रीयल-टाइम ट्रैकिंग सुनिश्चित करता है।" }
             ]
         }
@@ -249,8 +249,10 @@ document.addEventListener('DOMContentLoaded', () => {
         msgDiv.innerHTML = `<i class="fas fa-robot" style="margin-right: 8px; font-size: 0.8rem; color: var(--primary)"></i>${text}`;
         if (showButton) {
             const btn = document.createElement('a');
-            btn.href = 'https://expo.dev/artifacts/eas/gSAhG5Zs1Nzc5GMaUH1kiU.apk';
+            btn.href = 'https://drive.google.com/file/d/1r9G7OtFdZ9ynOXFxnrUCTcXbZ0ynrUFr/view?usp=sharing';
             btn.className = 'chat-download-btn';
+            btn.target = '_blank';
+            btn.rel = 'noopener noreferrer';
             btn.innerHTML = '<i class="fab fa-android"></i> Download APK';
             msgDiv.appendChild(btn);
         }
