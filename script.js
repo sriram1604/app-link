@@ -249,7 +249,7 @@ document.addEventListener('DOMContentLoaded', () => {
         msgDiv.innerHTML = `<i class="fas fa-robot" style="margin-right: 8px; font-size: 0.8rem; color: var(--primary)"></i>${text}`;
         if (showButton) {
             const btn = document.createElement('a');
-            btn.href = 'https://expo.dev/artifacts/eas/gSAhG5Zs1Nzc5GMaUH1kiU.apk';
+            btn.href = 'PAK-Enterprises-attendance.apk';
             btn.className = 'chat-download-btn';
             btn.innerHTML = '<i class="fab fa-android"></i> Download APK';
             msgDiv.appendChild(btn);
