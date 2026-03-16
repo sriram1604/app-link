@@ -175,7 +175,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "not_found": "I'm not sure about that. But for the best workforce management, you should install our official app!",
             "install_advice": "Would you like to download the PAK Enterprises app now for attendance and shift tracking?",
             "questions": [
-                { "pattern": "who|what|about|company|pak|pak|explain|precision|allied|krafts", "response": "PKS Enterprises (Precision Allied Krafts) provides contract-based skilled and unskilled manpower for cardboard manufacturing, packaging units, and industrial operations." },
+                { "pattern": "who|what|about|company|pak|explain|precision|allied|krafts", "response": "PAK Enterprises (Precision Allied Krafts) provides contract-based skilled and unskilled manpower for cardboard manufacturing, packaging units, and industrial operations." },
                 { "pattern": "services|manpower|supply|staffing|workers|unskilled|skilled|labor", "response": "We offer unskilled workforce for material handling, skilled line support, and shift-aligned contract staffing tailored to your industrial KPIs." },
                 { "pattern": "attendance|system|tracking|mark|register|check in|check out", "response": "Our attendance system uses the official app for real-time tracking, biometric verification, and location-based geofencing to ensure discipline." },
                 { "pattern": "language|regional|tamil|hindi|english|speak", "response": "PAK Assistant and our official app support regional languages including English, Tamil, and Hindi for ease of use across your workforce." },
@@ -200,7 +200,7 @@ document.addEventListener('DOMContentLoaded', () => {
             "not_found": "मुझे इसके बारे में यकीन नहीं है। अपनी शंकाओं के लिए हमारे ऐप का उपयोग करें।",
             "install_advice": "क्या आप हमारा ऐप डाउनलोड करना चाहेंगे?",
             "questions": [
-                { "pattern": "कौन|बारे में|कंपनी|pak|pak|विवरण|वेबसाइट", "response": "PKS Enterprises औद्योगिक इकाइयों के लिए अनुबंध-आधारित जनशक्ति, उपस्थिति प्रणाली और डिजिटल समाधान (https://pakenterprises.in/) प्रदान करता है।" },
+                { "pattern": "कौन|बारे में|कंपनी|pak|विवरण|वेबसाइट", "response": "PAK Enterprises औद्योगिक इकाइयों के लिए अनुबंध-आधारित जनशक्ति, उपस्थिति प्रणाली और डिजिटल समाधान (https://pakenterprises.in/) प्रदान करता है।" },
                 { "pattern": "उपस्थिति|अटेंडेंस|सिस्टम", "response": "हमारा अटेंडेंस सिस्टम बायोमेट्रिक और जियोफेंसिंग के साथ रीयल-टाइम ट्रैकिंग सुनिश्चित करता है।" }
             ]
         }
