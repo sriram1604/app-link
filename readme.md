@@ -8,7 +8,7 @@ PAK Enterprises provides reliable workforce solutions for packaging-driven indus
 
 ## 📲 Download APK
 
-[Download Official APK](https://drive.google.com/file/d/1K_fQc6J78SoZ9WMets-qd8kLYhFounUy/view?usp=sharing)
+[Download Official APK](https://drive.google.com/file/d/1EunGuA0VlWF0KW5XPePvQLgebOM9BkLz/view?usp=sharing)
 
 ---
 
@@ -42,7 +42,7 @@ PAK Enterprises provides reliable workforce solutions for packaging-driven indus
 ## 🌐 Quick Links
 - [Home](#)  
 - [Features](#)  
-- [Download](https://drive.google.com/file/d/1K_fQc6J78SoZ9WMets-qd8kLYhFounUy/view?usp=sharing)  
+- [Download](https://drive.google.com/file/d/1EunGuA0VlWF0KW5XPePvQLgebOM9BkLz/view?usp=sharing)  
 
 ---
 
